@@ -131,12 +131,12 @@
         <!-- Menú vertical -->
         <nav class="Menu">
             <ul>
-                <li><a href="http://127.0.0.1:5500/CODIGOS/CODIGO%20DE%20TRABAJO%20DE%20BASURA%20TECNOLOGICA%20(14-05-24).html">Página Principal</a></li>
-                <li><a href="http://127.0.0.1:5500/CODIGOS/CODIGO%20ANALISTA.html">Analista de Tipos de Basuras Tecnológicas</a></li>
-                <li><a href="http://127.0.0.1:5500/CODIGOS/CODIGO%20EXPERTO.html">Experto en Impacto Ambiental</a></li>
-                <li><a href="http://127.0.0.1:5500/CODIGOS/CODIGO%20INVESTIGADOR%20PRINCIPAL.html">Investigador Principal</a></li>
-                <li><a href="http://127.0.0.1:5500/CODIGOS/CODIGO%20COMUNICADOR.html">Comunicador</a></li>
-            </ul>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica/">Página Principal</a></li>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Analista/">Analista de Tipos de Basuras Tecnológicas</a></li>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Experto/">Experto en Impacto Ambiental</a></li>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Investigador/">Investigador Principal</a></li>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Comunicador/">Comunicador</a></li>
+        </ul> 
         </nav>
     </header>
 
