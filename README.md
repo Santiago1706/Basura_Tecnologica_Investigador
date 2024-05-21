@@ -161,6 +161,8 @@ De hecho, en el año 2015 el departamento administrativo de gestión del medio a
         <h2>REFERENCIAS</h2>
         <p>Contenido de contacto...</p>
          <li id="ref1"> Becerra, K., Hernández, A., Díaz, B., Cedano, K., & Martínez, H. (2020). RESIDUOS DE APARATOS ELÉCTRICOS Y ELECTRÓNICOS (RAEE): IMPACTO SOCIAL, AMBIENTAL, GESTIÓN Y METODOLOGÍAS SOBRE SU MANEJO. T. <a href="http://enerlac.olade.org/index.php/ENERLAC/article/view/127/201 /">http://enerlac.olade.org/index.php/ENERLAC/article/view/127/201 </a></li>
+         <li id="ref1"> Dávalos, N. (2021). Cada ecuatoriano genera 5,7 kilos de basura electrónica.  <a href="https://www.primicias.ec/noticias/tecnologia/basura-electronica-mundo-ecuador/ /">https://www.primicias.ec/noticias/tecnologia/basura-electronica-mundo-ecuador/ </a></li>
+          <li id="ref1">Alcaldía de Santiago de Cali. (4 de agosto de 2015). ¿Sabes hacia dónde va la basura electrónica?. Gobernación del valle. . <a href="https://www.cali.gov.co/dagma/publicaciones/110245/sabes_hacia_donde_va_la_basura_electronica/">https://www.cali.gov.co/dagma/publicaciones/110245/sabes_hacia_donde_va_la_basura_electronica/</a></li>
     </section>
 
     <!-- Sección para la lista de imágenes -->
