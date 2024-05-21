@@ -157,19 +157,10 @@ De hecho, en el año 2015 el departamento administrativo de gestión del medio a
 </p> 
     </section>
 
-    <section id="funcionamiento">
-        <h2>Analista de tipos de basura tecnológica</h2>
-        <p>Contenido del funcionamiento...</p>
-    </section>
-
-    <section id="impacto">
-        <h2>Experto en impacto ambiental</h2>
-        <p>Contenido del impacto ambiental...</p>
-    </section>
-
     <section id="contacto">
-        <h2>Comunicador</h2>
+        <h2>REFERENCIAS</h2>
         <p>Contenido de contacto...</p>
+         <li id="ref1"> Becerra, K., Hernández, A., Díaz, B., Cedano, K., & Martínez, H. (2020). RESIDUOS DE APARATOS ELÉCTRICOS Y ELECTRÓNICOS (RAEE): IMPACTO SOCIAL, AMBIENTAL, GESTIÓN Y METODOLOGÍAS SOBRE SU MANEJO. T. <a href="http://enerlac.olade.org/index.php/ENERLAC/article/view/127/201 /">http://enerlac.olade.org/index.php/ENERLAC/article/view/127/201 </a></li>
     </section>
 
     <!-- Sección para la lista de imágenes -->
